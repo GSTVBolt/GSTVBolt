@@ -1,4 +1,3 @@
-### Olá! Eu sou Gustavo Monteiro 👋
 
 - 🔭 Meu conhecimento se baseia em back-end, mas a longo prazo pretendo ser fullstack
 - 🌱 Estudando javascript & typescript
