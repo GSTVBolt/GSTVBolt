@@ -1,5 +1,5 @@
 
-- 🔭 Meu conhecimento se baseia em back-end, mas a longo prazo pretendo ser fullstack
+- 🔭 Meu conhecimento se Dot.NET, mas a longo prazo pretendo ser fullstack
 - 🌱 Estudando javascript & typescript
 - 📫 Contate-me no email: gustavo_monteiro.20@hotmail.com
 
