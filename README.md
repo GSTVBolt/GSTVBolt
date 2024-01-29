@@ -1,6 +1,6 @@
 
-- 🔭 Meu conhecimento se Dot.NET, mas a longo prazo pretendo ser fullstack
-- 🌱 Estudando javascript & typescript
+- 🔭 Meu conhecimento se baseia em Dot.NET, mas a longo prazo pretendo ser fullstack
+- 🌱 Estudando react, node e mongoDB
 - 📫 Contate-me no email: gustavo_monteiro.20@hotmail.com
 
 <div>
