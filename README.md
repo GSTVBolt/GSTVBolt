@@ -1,5 +1,5 @@
 
-- 🔭 Meu conhecimento se baseia em Dot.NET, mas a longo prazo pretendo ser fullstack
+- 🔭 Meu conhecimento se baseia em .NET/ASP MVC, mas hoje meu foco esta total em frontend, utilizando tecnologias como HTML/CSS/JS e REACT como framework.
 - 🌱 Estudando react, node e mongoDB
 - 📫 Contate-me no email: gustavo_monteiro.20@hotmail.com
 
